@@ -10,6 +10,10 @@ jupyter = "*"
 jupyterlab = "*"
 pandas = "*"
 scikit-learn = "*"
+rise = "*"
+matplotlib = "*"
+seaborn = "*"
+progressbar = "*"
 
 [requires]
 python_version = "3.6"
